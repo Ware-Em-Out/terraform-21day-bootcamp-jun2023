@@ -1,12 +1,3 @@
-# Terraform in 21 Days by Vlad Mukhin
+# Task 2: Networking in the Cloud, Deploying Our First VPC
 
-This repository is for the purpose of storing tasks conducted duing the 21 day Terraform Bootcamp cohort (June 2023)
-
-We will use feature "git" branches to track changes.  
-Be sure to have Vlad or Geoffrey approve pull request before merging to 'main'.  
-
-Always pull the latest commits to 'mainprior to making any new commits.  
-
-Never forget to run 'git pull'.  
-
-Remember: NEVER commit to 'Main' branch.
+We will introduce networking in the cloud through Virtual Private Clouds (VPCs) in AWS. We'll cover the components of VPCs, including subnets, security groups, and routing tables, and how they work together. Using Terraform, we'll deploy our first VPC, gaining hands-on experience with cloud networking.

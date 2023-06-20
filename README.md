@@ -1,3 +1,3 @@
-# Task 5: Launching your first EC2 instance
+# Task 6: Automate Instance Bootstrap with User Data
 
-Using Terraform, we'll launch our first Amazon EC2 instance in this chapter. After exploring the different types of instances available, we'll create and configure our instance, including its AMI and security group. We'll then connect to the instance using SSH to verify its configuration.
+We will automate instance bootstrap using user data in Amazon EC2. We'll explore what user data is and how to use it to customize instances during launch. Using Terraform, we'll create and configure our instance with user data, which will execute scripts and commands on the instance during bootstrapping.

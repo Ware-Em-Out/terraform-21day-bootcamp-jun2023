@@ -1,3 +1,3 @@
-# Task 7: Remote Backend, Managing Terraform State
+# Task 8: Remote State Data Source, Layered Approach
 
-We will cover how to manage Terraform state using a remote backend. We'll start by understanding the concept of state and why it's essentially Terraform. Then, we'll explore how a remote backend can be used to store and manage state, allowing for better collaboration and more efficient infrastructure management.
+We will build on our knowledge of remote Terraform backends and explore how to use the remote state data source to manage resources across multiple Terraform configurations. We'll start by understanding how to reference and use the state data from a remote backend in another configuration.

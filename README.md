@@ -1,3 +1,3 @@
-# Task 8: Remote State Data Source, Layered Approach
+# Task 9: Distributing Traffic using Elastic Load Balancing (ELB)
 
-We will build on our knowledge of remote Terraform backends and explore how to use the remote state data source to manage resources across multiple Terraform configurations. We'll start by understanding how to reference and use the state data from a remote backend in another configuration.
+We will explore how to distribute traffic using Elastic Load Balancing (ELB) in Amazon Web Services (AWS). We'll start by understanding what ELB is and how it works to distribute traffic across multiple instances. Then, we'll use Terraform to create and configure an ELB, including its listener and backend instances.

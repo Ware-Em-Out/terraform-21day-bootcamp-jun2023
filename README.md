@@ -1,3 +1,3 @@
-# Task 11: Identity and Access Management (IAM), Roles, Policies, Groups, and Users
+# Task 12: AWS SSM Session Manager - Connecting to Your Instances without SSH
 
-We will use IAM roles and policies to manage access to an Amazon EC2 instance in AWS. Using Terraform, we'll create and configure the IAM resources necessary for securing access to the instance.
+We will explore the AWS Systems Manager (SSM) Session Manager, a service that enables you to connect to your Amazon Elastic Compute Cloud (EC2) instances without using Secure Shell (SSH).
